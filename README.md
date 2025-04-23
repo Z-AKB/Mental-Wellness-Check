@@ -44,6 +44,8 @@ Assess stress, anxiety, and depression
 
 A Flask-based expert system that assesses mental wellness using inputs like stress levels, sleep patterns, and mood. The system provides personalized recommendations using rule-based logic inspired by psychological assessment scales (PHQ-9, GAD-7, etc.).
 
+---
+
 **Group 13**
 
 -Ugochukwu Adaugo Queeneth VUG/SEN/23/10415
@@ -52,6 +54,7 @@ A Flask-based expert system that assesses mental wellness using inputs like stre
 
 -Marshall Aaron VUG/SEN/22/8506
 
+---
 
 ---
 
