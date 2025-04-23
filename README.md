@@ -40,7 +40,7 @@ Assess stress, anxiety, and depression
 
 
 
-**##Group 13**
+**Group 13**
 
 Ugochukwu Adaugo Queeneth VUG/SEN/23/10415
 Akanbi Oluwafifunmi Zion VUG/SEN/22/7238
