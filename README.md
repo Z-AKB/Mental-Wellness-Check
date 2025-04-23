@@ -48,29 +48,39 @@ A Flask-based expert system that assesses mental wellness using inputs like stre
 
 **Group 13**
 
--Ugochukwu Adaugo Queeneth VUG/SEN/23/10415
-[Worked on index.html
+**Ugochukwu Adaugo Queeneth VUG/SEN/23/10415**
 
-Suggested Self care routines
+-Worked on index.html
 
-Designed thresholdclassifications
+-Suggested Self care routines
 
-Generated wellness scores and interpretations]
+-Designed threshold classifications
 
--Akanbi Oluwafifunmi Zion VUG/SEN/22/7238
-[Created Flask app with radio buttons for assessment questions
+-Generated wellness scores and interpretations
 
-Built question and scoring database
+---
 
-Implemened privacy and data handling]
+**Akanbi Oluwafifunmi Zion VUG/SEN/22/7238**
 
--Marshall Aaron VUG/SEN/22/8506
-[Worked on dashboard. html
+-Created Flask app with radio buttons for assessment questions
 
-Worked on implementation of scoring systems
+-Built question and scoring database
 
-Visualise Wellness across dimensions
-Test with clinicalcases]
+-Implemened privacy and data handling]
+
+-Worked on base.html
+
+---
+
+**Marshall Aaron VUG/SEN/22/8506**
+
+-Worked on dashboard.html
+
+-Worked on implementation of scoring systems
+
+-Visualise Wellness across dimensions
+
+-Test with clinicalcases
 
 ---
 
