@@ -150,7 +150,7 @@ MIT License
 ```
 MIT License
 
-Copyright (c) [year] [Full Name or Organization]
+Copyright (c) [2025] [Ugochukwu Adaugo Queeneth | Akanbi Oluwafifunmi Zion | Marshall Aaron]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
