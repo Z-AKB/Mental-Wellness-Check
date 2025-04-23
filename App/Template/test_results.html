@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Results{% endblock %}
+{% block content %}
+<h2 class="text-center">Your Results</h2>
+
+<div class="mt-4">
+  {% for dimension, score in scores.items() %}
+    <p><strong>{{ dimension }}:</strong> {{ score }} - {{ classification[dimension] }}</p>
+  {% endfor %}
+</div>
+
+<div class="my-4 text-center">
+  <img src="data:image/png;base64,{{ chart }}" alt="Wellness Chart" class="img-fluid rounded shadow">
+</div>
+
+<div class="text-center mt-4">
+  <a href="{{ url_for('app_routes.index') }}" class="btn btn-outline-primary rounded-pill px-4">
+    <i class="bi bi-arrow-repeat me-2"></i> Retake Assessment
+  </a>
+</div>
+{% endblock %}
+{% extends "base.html" %}
+{% block title %}Results{% endblock %}
+{% block content %}
+<h2 class="text-center">Your Results</h2>
+
+<div class="mt-4">
+  {% for dimension, score in scores.items() %}
+    <p><strong>{{ dimension }}:</strong> {{ score }} - {{ classification[dimension] }}</p>
+  {% endfor %}
+</div>
+
+<div class="my-4 text-center">
+  <img src="data:image/png;base64,{{ chart }}" alt="Wellness Chart" class="img-fluid rounded shadow">
+</div>
+
+<div class="text-center mt-4">
+  <a href="{{ url_for('app_routes.index') }}" class="btn btn-outline-primary rounded-pill px-4">
+    <i class="bi bi-arrow-repeat me-2"></i> Retake Assessment
+  </a>
+</div>
+{% endblock %}
