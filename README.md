@@ -56,7 +56,6 @@ A Flask-based expert system that assesses mental wellness using inputs like stre
 
 ---
 
----
 
 ## 🚀 Features
 - Web-based mental wellness questionnaire
