@@ -42,11 +42,11 @@ Assess stress, anxiety, and depression
 
 **Group 13**
 
-Ugochukwu Adaugo Queeneth VUG/SEN/23/10415
+-Ugochukwu Adaugo Queeneth VUG/SEN/23/10415
 
-Akanbi Oluwafifunmi Zion VUG/SEN/22/7238
+-Akanbi Oluwafifunmi Zion VUG/SEN/22/7238
 
-Marshall Aaron VUG/SEN/22/8506
+-Marshall Aaron VUG/SEN/22/8506
 
 # 🧠 Mental Wellness Check
 
