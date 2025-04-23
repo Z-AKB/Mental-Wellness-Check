@@ -40,7 +40,6 @@ Assess stress, anxiety, and depression
 
 
 
-
 # 🧠 Mental Wellness Check
 
 A Flask-based expert system that assesses mental wellness using inputs like stress levels, sleep patterns, and mood. The system provides personalized recommendations using rule-based logic inspired by psychological assessment scales (PHQ-9, GAD-7, etc.).
